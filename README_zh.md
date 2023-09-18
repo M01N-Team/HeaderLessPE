@@ -18,4 +18,10 @@ tools.exe -i "desktop_name" c:\windows\system32\mspaint.exe loader.exe ADExplore
 
 文章链接：
 
+参考链接：
+1. https://github.com/strivexjun/MemoryModulePP.git
+2. https://doxygen.reactos.org
+3. https://github.com/hasherezade/pe-sieve.git
+4. https://bbs.kanxue.com/thread-264956.htm
+
 

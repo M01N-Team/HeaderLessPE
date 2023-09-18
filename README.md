@@ -18,4 +18,9 @@ This will run the ADExplorer64 tool without a file on the desktop_name desktop.
 
 Article Link：
 
+## Reference 
+1. https://github.com/strivexjun/MemoryModulePP.git
+2. https://doxygen.reactos.org
+3. https://github.com/hasherezade/pe-sieve.git
+4. https://bbs.kanxue.com/thread-264956.htm
 
