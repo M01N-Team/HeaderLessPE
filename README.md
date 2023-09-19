@@ -10,9 +10,9 @@ As long as it supports relocation and does not include structures such as Tls an
 [![](image/1.png)](https://github.com/M01N-Team/HeaderLessPE/blob/master/image/1.png)
   
 ## TEST
-tools.exe -i "desktop_name" c:\windows\system32\mspaint.exe loader.exe ADExplorer64.exe
+tools.exe -i "desktop_name" c:\windows\system32\mspaint.exe loader.exe BrowsingHistoryView.exe
 
-This will run the ADExplorer64 tool without a file on the desktop_name desktop.
+This will run the BrowsingHistoryView tool without a file on the desktop_name desktop.
 
 [![](image/2.png)](https://github.com/M01N-Team/HeaderLessPE/blob/master/image/1.png)
 

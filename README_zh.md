@@ -10,9 +10,9 @@ DOS头和PE头经常是被内存扫描的照顾重点特征，在使用Cobalt St
 [![](image/1.png)](https://github.com/M01N-Team/HeaderLessPE/blob/master/image/1.png)
 
 ## 测试
-tools.exe -i "desktop_name" c:\windows\system32\mspaint.exe loader.exe ADExplorer64.exe
+tools.exe -i "desktop_name" c:\windows\system32\mspaint.exe loader.exe BrowsingHistoryView.exe
 
-将会在desktop_name的桌面中无文件运行ADExplorer64工具
+将会在desktop_name的桌面中无文件运行BrowsingHistoryView.exe工具
 
 [![](image/2.png)](https://github.com/M01N-Team/HeaderLessPE/blob/master/image/1.png)
 
